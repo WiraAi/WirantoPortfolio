@@ -1,0 +1,23 @@
+# Test files
+assets/ez.html
+assets/images/test.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.log
+*.tmp
+
+# Node modules if you add them later
+node_modules/
+
+# Environment variables
+.env 
